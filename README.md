@@ -1,1 +1,1 @@
-My personal webpage using Bootstrap
+My personal webpage using Bootstrap.
